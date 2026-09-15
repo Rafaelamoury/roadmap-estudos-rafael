@@ -1,0 +1,27 @@
+### 1. Qual é a diferença entre head e body?
+HEAD - guarda as informações usadas pelo navegador para configurar e identificar a página.
+BODY - guarda o conteúdo que aparece visualmente para o usuário.
+
+### 2. Para que serve a tag title?
+TAG TITLE - define o titulo exibido no navegador, ela fica dentro do "HEAD".
+
+### 3. O que significa a barra / em </p>?
+/ - indica que uma tag esta sendo fechada.
+
+### 4. Por que usamos UTF-8?
+Esta linha define a codificação dos caracteres.
+Ela permite que o navegador interprete corretamente:
+Acentos: á, é, í, ó, ú.
+Cedilha: ç.
+Símbolos.
+Caracteres de outros idiomas.
+
+Sem a codificação correta, um texto como:
+
+1. O `head` contém configurações e informações sobre a página. O `body` contém o conteúdo visual apresentado ao usuário.
+
+2. A tag `title` define o nome da página que aparece na aba do navegador.
+
+3. A barra `/` indica o fechamento de uma tag. Por exemplo, `<p>` abre um parágrafo e `</p>` fecha o parágrafo.
+
+4. Utilizamos UTF-8 para que o navegador mostre corretamente acentos, cedilha, símbolos e caracteres especiais.
